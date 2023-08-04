@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="MVCBankApp">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="MVCBankApp"/>
         <property name="java-output-path" value="/MVCBankApp/build/classes"/>
+=======
+    <wb-module deploy-name="BankingApplication">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="BankingApplication"/>
+        <property name="java-output-path" value="/BankingApplication/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/kashish6506/Week-4Project.git
     </wb-module>
 </project-modules>

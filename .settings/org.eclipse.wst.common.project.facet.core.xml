@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="Apache Tomcat v9.0 (2)"/>
+<<<<<<< HEAD
   <fixed facet="java"/>
   <fixed facet="jst.web"/>
   <fixed facet="wst.jsdt.web"/>
+=======
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="java"/>
+>>>>>>> branch 'master' of https://github.com/kashish6506/Week-4Project.git
   <installed facet="java" version="17"/>
   <installed facet="jst.web" version="2.4"/>
   <installed facet="wst.jsdt.web" version="1.0"/>
